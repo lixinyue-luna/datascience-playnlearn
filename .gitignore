@@ -1,0 +1,6 @@
+# ignore all checkpoints
+*.ipynb_checkpoints*
+
+# ignore all datasets
+z_datasets/MNIST/*
+z_datasets/time_series/*
