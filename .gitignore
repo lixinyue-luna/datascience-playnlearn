@@ -4,3 +4,6 @@
 # ignore all datasets
 z_datasets/MNIST/*
 z_datasets/time_series/*
+
+# ignore tmp
+tmp
